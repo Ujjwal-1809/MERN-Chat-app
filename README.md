@@ -44,8 +44,7 @@ A **real-time chat application** built using the **MERN stack (MongoDB, Express.
 - Message Reactions
 - Typing Indicators
 
-## Live Demo URL: 
-[MERN Chat App](https://mern-chat-app-wyvi.onrender.com/login)
+**Live Demo URL** - [MERN Chat App](https://mern-chat-app-wyvi.onrender.com/login)
 
 ## 📩 Contact
 
